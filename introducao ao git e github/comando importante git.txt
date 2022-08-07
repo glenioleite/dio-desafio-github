@@ -1,0 +1,83 @@
+comandos importantes do GIT
+senha do github leite1979
+vamos ...
+
+senha 2627 
+chave 
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHBjicAtc/nbNieMiuRV9wkotZD4PYH8XxH4jPAJ8hVj glenioleite@yahoo.com.br
+pegar chave
+cat id_ed25519.pub
+
+
+configurações do meu git
+git config --global user.name "Glenio Fernandes"
+
+git config --global user.email "glenioleite@yahoo.com.br"
+
+verificar o que está la.
+git config user.name
+
+limpar a tela
+clear
+
+
+o que tem na pagina seria
+ls ou dir
+
+navegar entre as paginas
+cd 
+cd .. volta
+
+criar diretorio ou pasta
+mkdir
+
+deleta arquivo
+rmdir nome do arquivo
+
+cria arquivos txt, md
+echo > nome arquivo
+
+git init
+
+mover arquivo para pasta:
+mv nome do arquivo ./pasta/
+
+estato do git
+git status
+
+adiciona todos as modificações relizadas
+git add * 
+
+adiciona o arquivo individualmente
+git add nome di arquivo
+
+remove arquivo individualmente
+git rm nome do arquivo
+
+git commit -m "adiciona index"
+
+conexão git e github
+git remote add origin https://github.com/glenioleite/livro-receitas.git
+
+verificar a conexão
+git remote -v
+
+pega o que está na github da internet
+git pull origin master
+
+envia arquivo para o git hub
+git push origin master 
+
+clonar arquivos do github
+git clone mais a url: 
+
+
+
+
+
+
+
+
+
+
+
