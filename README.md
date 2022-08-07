@@ -1,2 +1,5 @@
-# dio-desafio-github
-desafio de projeto sobre git /github
+# repositorio do desafio do projeto sobre github
+drepositorio criado para o desafio de projeto
+
+## link uteis 
+
